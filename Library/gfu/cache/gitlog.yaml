@@ -1,0 +1,690 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2022-09-18T20:23:04.696-03:00
+  initializedAtString: 2022-09-18T20:23:04.676-03:00
+  log:
+  - commitID: 6d392a3c5a2987f4739ea8752cc4124b534bdcb8
+    mergeA: 
+    mergeB: 
+    authorName: quimmedes
+    authorEmail: quimmedes@gmail.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Delete README.md
+    description: 
+    timeString: 2022-09-18T20:01:36.000-03:00
+    commitTimeString: 2022-09-18T20:01:36.000-03:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\Kimede\Asas Celere\README.md
+      projectPath: README.md
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: 0a6a2f5d6f07a0b0b153089658eb3069e54b9879
+    mergeA: 
+    mergeB: 
+    authorName: quimmedes
+    authorEmail: quimmedes@gmail.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Delete Assets directory
+    description: 
+    timeString: 2022-09-18T20:01:27.000-03:00
+    commitTimeString: 2022-09-18T20:01:27.000-03:00
+    changes:
+    - path: Assets\Scenes.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\Material.001 1.mat
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\Material.001 1.mat
+      projectPath: Assets\Scenes\Meshes\Material.001 1.mat
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\Material.001 1.mat.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\Material.001 1.mat.meta
+      projectPath: Assets\Scenes\Meshes\Material.001 1.mat.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\Material.001.mat
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\Material.001.mat
+      projectPath: Assets\Scenes\Meshes\Material.001.mat
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\Material.001.mat.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\Material.001.mat.meta
+      projectPath: Assets\Scenes\Meshes\Material.001.mat.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\Material.002.mat
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\Material.002.mat
+      projectPath: Assets\Scenes\Meshes\Material.002.mat
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\Material.004.mat
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\Material.004.mat
+      projectPath: Assets\Scenes\Meshes\Material.004.mat
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\Material.004.mat.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\Material.004.mat.meta
+      projectPath: Assets\Scenes\Meshes\Material.004.mat.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\New Material.mat
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\New Material.mat
+      projectPath: Assets\Scenes\Meshes\New Material.mat
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\New Material.mat.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\New Material.mat.meta
+      projectPath: Assets\Scenes\Meshes\New Material.mat.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\Plane Base Color.png
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\Plane Base Color.png
+      projectPath: Assets\Scenes\Meshes\Plane Base Color.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\Plane Base Color.png.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\Plane Base Color.png.meta
+      projectPath: Assets\Scenes\Meshes\Plane Base Color.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\aircraft.blend
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\aircraft.blend
+      projectPath: Assets\Scenes\Meshes\aircraft.blend
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\aircraft.blend.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\aircraft.blend.meta
+      projectPath: Assets\Scenes\Meshes\aircraft.blend.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\black.mat
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\black.mat
+      projectPath: Assets\Scenes\Meshes\black.mat
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\black.mat.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\black.mat.meta
+      projectPath: Assets\Scenes\Meshes\black.mat.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\gray.mat.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\gray.mat.meta
+      projectPath: Assets\Scenes\Meshes\gray.mat.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\istockphoto-1210343150-612x612.jpg
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\istockphoto-1210343150-612x612.jpg
+      projectPath: Assets\Scenes\Meshes\istockphoto-1210343150-612x612.jpg
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\istockphoto-1210343150-612x612.jpg.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\istockphoto-1210343150-612x612.jpg.meta
+      projectPath: Assets\Scenes\Meshes\istockphoto-1210343150-612x612.jpg.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\pistahouse.blend
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\pistahouse.blend
+      projectPath: Assets\Scenes\Meshes\pistahouse.blend
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\pistahouse.blend.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\pistahouse.blend.meta
+      projectPath: Assets\Scenes\Meshes\pistahouse.blend.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\red.mat
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\red.mat
+      projectPath: Assets\Scenes\Meshes\red.mat
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\red.mat.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\red.mat.meta
+      projectPath: Assets\Scenes\Meshes\red.mat.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\redbloom.mat
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\redbloom.mat
+      projectPath: Assets\Scenes\Meshes\redbloom.mat
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\redbloom.mat.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\redbloom.mat.meta
+      projectPath: Assets\Scenes\Meshes\redbloom.mat.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\trasparent.mat
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\trasparent.mat
+      projectPath: Assets\Scenes\Meshes\trasparent.mat
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\trasparent.mat.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\trasparent.mat.meta
+      projectPath: Assets\Scenes\Meshes\trasparent.mat.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Prefabs.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Prefabs.meta
+      projectPath: Assets\Scenes\Prefabs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Prefabs\Bullet.prefab
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Prefabs\Bullet.prefab
+      projectPath: Assets\Scenes\Prefabs\Bullet.prefab
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Prefabs\Bullet.prefab.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Prefabs\Bullet.prefab.meta
+      projectPath: Assets\Scenes\Prefabs\Bullet.prefab.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Scripts.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Scripts.meta
+      projectPath: Assets\Scenes\Scripts.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Scripts\Bullet.cs
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Scripts\Bullet.cs
+      projectPath: Assets\Scenes\Scripts\Bullet.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Scripts\Bullet.cs.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Scripts\Bullet.cs.meta
+      projectPath: Assets\Scenes\Scripts\Bullet.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Scripts\Movement.cs
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Scripts\Movement.cs
+      projectPath: Assets\Scenes\Scripts\Movement.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Scripts\Movement.cs.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Scripts\Movement.cs.meta
+      projectPath: Assets\Scenes\Scripts\Movement.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Scripts\Player.cs
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Scripts\Player.cs
+      projectPath: Assets\Scenes\Scripts\Player.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Scripts\Player.cs.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Scripts\Player.cs.meta
+      projectPath: Assets\Scenes\Scripts\Player.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Sounds.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Sounds.meta
+      projectPath: Assets\Scenes\Sounds.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Sounds\Bluezone_BC0288_combat_drone_weapon_scifi_shot_001.wav
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Sounds\Bluezone_BC0288_combat_drone_weapon_scifi_shot_001.wav
+      projectPath: Assets\Scenes\Sounds\Bluezone_BC0288_combat_drone_weapon_scifi_shot_001.wav
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Sounds\Bluezone_BC0288_combat_drone_weapon_scifi_shot_001.wav.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Sounds\Bluezone_BC0288_combat_drone_weapon_scifi_shot_001.wav.meta
+      projectPath: Assets\Scenes\Sounds\Bluezone_BC0288_combat_drone_weapon_scifi_shot_001.wav.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Sounds\followthetrail.mp3
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Sounds\followthetrail.mp3
+      projectPath: Assets\Scenes\Sounds\followthetrail.mp3
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Sounds\followthetrail.mp3.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Sounds\followthetrail.mp3.meta
+      projectPath: Assets\Scenes\Sounds\followthetrail.mp3.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Sounds\machinegun.mp3
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Sounds\machinegun.mp3
+      projectPath: Assets\Scenes\Sounds\machinegun.mp3
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scenes\Sounds\machinegun.mp3.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Sounds\machinegun.mp3.meta
+      projectPath: Assets\Scenes\Sounds\machinegun.mp3.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: f6f8412e9a57ccf14613b3414addfe71196e39bb
+    mergeA: 
+    mergeB: 
+    authorName: quimmedes
+    authorEmail: quimmedes@gmail.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Delete StableDiffusionSimple.ipynb
+    description: 
+    timeString: 2022-09-18T20:01:08.000-03:00
+    commitTimeString: 2022-09-18T20:01:08.000-03:00
+    changes:
+    - path: StableDiffusionSimple.ipynb
+      fullPath: C:\Users\Kimede\Asas Celere\StableDiffusionSimple.ipynb
+      projectPath: StableDiffusionSimple.ipynb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: 0ee5afe2810d0f34a20b880ba6afa7be7abd0fe9
+    mergeA: 
+    mergeB: 
+    authorName: quimmedes
+    authorEmail: quimmedes@gmail.com
+    commitEmail: quimmedes@gmail.com
+    commitName: quimmedes
+    summary: Criado usando o Colaboratory
+    description: 
+    timeString: 2022-09-14T22:01:11.000-03:00
+    commitTimeString: 2022-09-14T22:01:11.000-03:00
+    changes:
+    - path: StableDiffusionSimple.ipynb
+      fullPath: C:\Users\Kimede\Asas Celere\StableDiffusionSimple.ipynb
+      projectPath: StableDiffusionSimple.ipynb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: c1854553819bc8c7f16a46779be87c624fabf449
+    mergeA: 
+    mergeB: 
+    authorName: quimmedes
+    authorEmail: quimmedes@gmail.com
+    commitEmail: quimmedes@gmail.com
+    commitName: quimmedes
+    summary: Criado usando o Colaboratory
+    description: 
+    timeString: 2022-09-14T20:05:20.000-03:00
+    commitTimeString: 2022-09-14T20:05:20.000-03:00
+    changes:
+    - path: StableDiffusionSimple.ipynb
+      fullPath: C:\Users\Kimede\Asas Celere\StableDiffusionSimple.ipynb
+      projectPath: StableDiffusionSimple.ipynb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: ae1850f61168eac98a0c0d8ef7b3b1a73b7a3d8e
+    mergeA: 
+    mergeB: 
+    authorName: quimmedes
+    authorEmail: quimmedes@gmail.com
+    commitEmail: quimmedes@gmail.com
+    commitName: quimmedes
+    summary: Criado usando o Colaboratory
+    description: 
+    timeString: 2022-09-14T16:36:02.000-03:00
+    commitTimeString: 2022-09-14T16:36:02.000-03:00
+    changes:
+    - path: StableDiffusionSimple.ipynb
+      fullPath: C:\Users\Kimede\Asas Celere\StableDiffusionSimple.ipynb
+      projectPath: StableDiffusionSimple.ipynb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: b0ebcf455992fd2ebfb747cd1fbe1133e803f97b
+    mergeA: 
+    mergeB: 
+    authorName: quimmedes
+    authorEmail: quimmedes@gmail.com
+    commitEmail: quimmedes@gmail.com
+    commitName: quimmedes
+    summary: Initial commit
+    description: 
+    timeString: 2022-09-09T22:47:23.000-03:00
+    commitTimeString: 2022-09-09T22:47:23.000-03:00
+    changes:
+    - path: Assets\Scenes.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\Material.001 1.mat
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\Material.001 1.mat
+      projectPath: Assets\Scenes\Meshes\Material.001 1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\Material.001 1.mat.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\Material.001 1.mat.meta
+      projectPath: Assets\Scenes\Meshes\Material.001 1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\Material.001.mat
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\Material.001.mat
+      projectPath: Assets\Scenes\Meshes\Material.001.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\Material.001.mat.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\Material.001.mat.meta
+      projectPath: Assets\Scenes\Meshes\Material.001.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\Material.002.mat
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\Material.002.mat
+      projectPath: Assets\Scenes\Meshes\Material.002.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\Material.004.mat
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\Material.004.mat
+      projectPath: Assets\Scenes\Meshes\Material.004.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\Material.004.mat.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\Material.004.mat.meta
+      projectPath: Assets\Scenes\Meshes\Material.004.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\New Material.mat
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\New Material.mat
+      projectPath: Assets\Scenes\Meshes\New Material.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\New Material.mat.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\New Material.mat.meta
+      projectPath: Assets\Scenes\Meshes\New Material.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\Plane Base Color.png
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\Plane Base Color.png
+      projectPath: Assets\Scenes\Meshes\Plane Base Color.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\Plane Base Color.png.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\Plane Base Color.png.meta
+      projectPath: Assets\Scenes\Meshes\Plane Base Color.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\aircraft.blend
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\aircraft.blend
+      projectPath: Assets\Scenes\Meshes\aircraft.blend
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\aircraft.blend.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\aircraft.blend.meta
+      projectPath: Assets\Scenes\Meshes\aircraft.blend.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\black.mat
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\black.mat
+      projectPath: Assets\Scenes\Meshes\black.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\black.mat.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\black.mat.meta
+      projectPath: Assets\Scenes\Meshes\black.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\gray.mat.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\gray.mat.meta
+      projectPath: Assets\Scenes\Meshes\gray.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\istockphoto-1210343150-612x612.jpg
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\istockphoto-1210343150-612x612.jpg
+      projectPath: Assets\Scenes\Meshes\istockphoto-1210343150-612x612.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\istockphoto-1210343150-612x612.jpg.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\istockphoto-1210343150-612x612.jpg.meta
+      projectPath: Assets\Scenes\Meshes\istockphoto-1210343150-612x612.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\pistahouse.blend
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\pistahouse.blend
+      projectPath: Assets\Scenes\Meshes\pistahouse.blend
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\pistahouse.blend.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\pistahouse.blend.meta
+      projectPath: Assets\Scenes\Meshes\pistahouse.blend.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\red.mat
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\red.mat
+      projectPath: Assets\Scenes\Meshes\red.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\red.mat.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\red.mat.meta
+      projectPath: Assets\Scenes\Meshes\red.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\redbloom.mat
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\redbloom.mat
+      projectPath: Assets\Scenes\Meshes\redbloom.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\redbloom.mat.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\redbloom.mat.meta
+      projectPath: Assets\Scenes\Meshes\redbloom.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\trasparent.mat
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\trasparent.mat
+      projectPath: Assets\Scenes\Meshes\trasparent.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Meshes\trasparent.mat.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Meshes\trasparent.mat.meta
+      projectPath: Assets\Scenes\Meshes\trasparent.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Prefabs.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Prefabs.meta
+      projectPath: Assets\Scenes\Prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Prefabs\Bullet.prefab
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Prefabs\Bullet.prefab
+      projectPath: Assets\Scenes\Prefabs\Bullet.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Prefabs\Bullet.prefab.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Prefabs\Bullet.prefab.meta
+      projectPath: Assets\Scenes\Prefabs\Bullet.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Scripts.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Scripts.meta
+      projectPath: Assets\Scenes\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Scripts\Bullet.cs
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Scripts\Bullet.cs
+      projectPath: Assets\Scenes\Scripts\Bullet.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Scripts\Bullet.cs.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Scripts\Bullet.cs.meta
+      projectPath: Assets\Scenes\Scripts\Bullet.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Scripts\Movement.cs
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Scripts\Movement.cs
+      projectPath: Assets\Scenes\Scripts\Movement.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Scripts\Movement.cs.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Scripts\Movement.cs.meta
+      projectPath: Assets\Scenes\Scripts\Movement.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Scripts\Player.cs
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Scripts\Player.cs
+      projectPath: Assets\Scenes\Scripts\Player.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Scripts\Player.cs.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Scripts\Player.cs.meta
+      projectPath: Assets\Scenes\Scripts\Player.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Sounds.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Sounds.meta
+      projectPath: Assets\Scenes\Sounds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Sounds\Bluezone_BC0288_combat_drone_weapon_scifi_shot_001.wav
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Sounds\Bluezone_BC0288_combat_drone_weapon_scifi_shot_001.wav
+      projectPath: Assets\Scenes\Sounds\Bluezone_BC0288_combat_drone_weapon_scifi_shot_001.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Sounds\Bluezone_BC0288_combat_drone_weapon_scifi_shot_001.wav.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Sounds\Bluezone_BC0288_combat_drone_weapon_scifi_shot_001.wav.meta
+      projectPath: Assets\Scenes\Sounds\Bluezone_BC0288_combat_drone_weapon_scifi_shot_001.wav.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Sounds\followthetrail.mp3
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Sounds\followthetrail.mp3
+      projectPath: Assets\Scenes\Sounds\followthetrail.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Sounds\followthetrail.mp3.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Sounds\followthetrail.mp3.meta
+      projectPath: Assets\Scenes\Sounds\followthetrail.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Sounds\machinegun.mp3
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Sounds\machinegun.mp3
+      projectPath: Assets\Scenes\Sounds\machinegun.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Sounds\machinegun.mp3.meta
+      fullPath: C:\Users\Kimede\Asas Celere\Assets\Scenes\Sounds\machinegun.mp3.meta
+      projectPath: Assets\Scenes\Sounds\machinegun.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: C:\Users\Kimede\Asas Celere\README.md
+      projectPath: README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
