@@ -4,8 +4,18 @@ ScriptsOnlyBuild:
     - Bullet
     - Movement
     - Player
-    Unity.CollabProxy.Editor.dll:
-    - Unity.Cloud.Collaborate.UserInterface.CollaborateWindow
+    GitHub.Unity.45.dll:
+    - GitHub.Unity.ApplicationCache
+    - GitHub.Unity.BranchesCache
+    - GitHub.Unity.EnvironmentCache
+    - GitHub.Unity.GitAheadBehindCache
+    - GitHub.Unity.GitLocksCache
+    - GitHub.Unity.GitLogCache
+    - GitHub.Unity.GitStatusCache
+    - GitHub.Unity.RepositoryInfoCache
+    - GitHub.Unity.Window
+    Unity.PlasticSCM.Editor.dll:
+    - Unity.PlasticSCM.Editor.PlasticWindow
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     UnityEditor.TestRunner.dll:
@@ -40,6 +50,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
     - Class: 104
@@ -47,11 +61,11 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 3004}
+      Script: {instanceID: 3140}
     - Class: 114
-      Script: {instanceID: 3036}
+      Script: {instanceID: 3172}
     - Class: 114
-      Script: {instanceID: 4280}
+      Script: {instanceID: 4434}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 136
@@ -291,7 +305,7 @@ ScriptsOnlyBuild:
     className: ContentSizeFitter
   - hash:
       serializedVersion: 2
-      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
+      Hash: 14c3b1984b2db0c3931877267ef7cc59
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Bullet
@@ -471,7 +485,7 @@ ScriptsOnlyBuild:
     className: TMP_ScrollbarEventHandler
   - hash:
       serializedVersion: 2
-      Hash: 8c95b02b069914c03e23389093cb2580
+      Hash: 0cad811dc512030d1f5c9283667af1df
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Player
