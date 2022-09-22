@@ -13,9 +13,1515 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2022-09-19T11:28:51.546-03:00
-  initializedAtString: 2022-09-19T11:15:52.879-03:00
+  lastUpdatedAtString: 2022-09-22T01:43:58.120-03:00
+  initializedAtString: 2022-09-22T00:41:26.330-03:00
   log:
+  - commitID: 0015e80aefade5e5fa12e88688ff3969cd1e4649
+    mergeA: 
+    mergeB: 
+    authorName: Arquimedes
+    authorEmail: quimmedes@gmail.com
+    commitEmail: quimmedes@gmail.com
+    commitName: Arquimedes
+    summary: third
+    description: 
+    timeString: 2022-09-19T11:33:07.000-03:00
+    commitTimeString: 2022-09-19T11:33:07.000-03:00
+    changes:
+    - path: Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: C:\Users\Kimede\Asas Celere\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assembly-CSharp.csproj
+      fullPath: C:\Users\Kimede\Asas Celere\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\5b\5b8967b7cc6bbdd95fadcc051ad8fcf1
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Artifacts\5b\5b8967b7cc6bbdd95fadcc051ad8fcf1
+      projectPath: Library\Artifacts\5b\5b8967b7cc6bbdd95fadcc051ad8fcf1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\8c\8c70d17ab772d1027f41ba7b29540330
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Artifacts\8c\8c70d17ab772d1027f41ba7b29540330
+      projectPath: Library\Artifacts\8c\8c70d17ab772d1027f41ba7b29540330
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\ac\ac2d346a28c2894758e5da91c425a691
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Artifacts\ac\ac2d346a28c2894758e5da91c425a691
+      projectPath: Library\Artifacts\ac\ac2d346a28c2894758e5da91c425a691
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\c6\c65eb67a02ef202b268d26715589bafc
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Artifacts\c6\c65eb67a02ef202b268d26715589bafc
+      projectPath: Library\Artifacts\c6\c65eb67a02ef202b268d26715589bafc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\e3\e36d0c309d05ce6fa8dae08e3faf7fef
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Artifacts\e3\e36d0c309d05ce6fa8dae08e3faf7fef
+      projectPath: Library\Artifacts\e3\e36d0c309d05ce6fa8dae08e3faf7fef
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\ea\ea30dfcc9b39b0b306aef7ecebb257ca
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Artifacts\ea\ea30dfcc9b39b0b306aef7ecebb257ca
+      projectPath: Library\Artifacts\ea\ea30dfcc9b39b0b306aef7ecebb257ca
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\BuildPlayerData\Editor\TypeDb-All.json
+      fullPath: C:\Users\Kimede\Asas Celere\Library\BuildPlayerData\Editor\TypeDb-All.json
+      projectPath: Library\BuildPlayerData\Editor\TypeDb-All.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\BuildPlayerData\Player\TypeDb-All.json
+      fullPath: C:\Users\Kimede\Asas Celere\Library\BuildPlayerData\Player\TypeDb-All.json
+      projectPath: Library\BuildPlayerData\Player\TypeDb-All.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\BuildPlayerData\response.rsp
+      fullPath: C:\Users\Kimede\Asas Celere\Library\BuildPlayerData\response.rsp
+      projectPath: Library\BuildPlayerData\response.rsp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\Kimede\Asas Celere\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentMaximizeLayout.dwlt
+      fullPath: C:\Users\Kimede\Asas Celere\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\EditorUserBuildSettings.asset
+      fullPath: C:\Users\Kimede\Asas Celere\Library\EditorUserBuildSettings.asset
+      projectPath: Library\EditorUserBuildSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\Native\Data\Metadata\global-metadata.dat
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\Native\Data\Metadata\global-metadata.dat
+      projectPath: Library\Il2cppBuildCache\WebGL\Native\Data\Metadata\global-metadata.dat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\Native\build.bc
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\Native\build.bc
+      projectPath: Library\Il2cppBuildCache\WebGL\Native\build.bc
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\additionalCppFiles\UnityClassRegistration.cpp
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\additionalCppFiles\UnityClassRegistration.cpp
+      projectPath: Library\Il2cppBuildCache\WebGL\additionalCppFiles\UnityClassRegistration.cpp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\additionalCppFiles\UnityICallRegistration.cpp
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\additionalCppFiles\UnityICallRegistration.cpp
+      projectPath: Library\Il2cppBuildCache\WebGL\additionalCppFiles\UnityICallRegistration.cpp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\artifacts\TundraBuildState.state
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\artifacts\TundraBuildState.state
+      projectPath: Library\Il2cppBuildCache\WebGL\artifacts\TundraBuildState.state
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\artifacts\profile.json
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\artifacts\profile.json
+      projectPath: Library\Il2cppBuildCache\WebGL\artifacts\profile.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\artifacts\tundra.dag
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\artifacts\tundra.dag
+      projectPath: Library\Il2cppBuildCache\WebGL\artifacts\tundra.dag
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\artifacts\tundra.digestcache
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\artifacts\tundra.digestcache
+      projectPath: Library\Il2cppBuildCache\WebGL\artifacts\tundra.digestcache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\artifacts\tundra.log.json
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\artifacts\tundra.log.json
+      projectPath: Library\Il2cppBuildCache\WebGL\artifacts\tundra.log.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\Assembly-CSharp.cpp
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\Assembly-CSharp.cpp
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\Assembly-CSharp.cpp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\Assembly-CSharp_CodeGen.c
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\Assembly-CSharp_CodeGen.c
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\Assembly-CSharp_CodeGen.c
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\Data\Metadata\global-metadata.dat
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\Data\Metadata\global-metadata.dat
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\Data\Metadata\global-metadata.dat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\GenericMethods1.cpp
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\GenericMethods1.cpp
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\GenericMethods1.cpp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppCCFieldValuesTable.cpp
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppCCFieldValuesTable.cpp
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppCCFieldValuesTable.cpp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppCCTypeValuesTable.cpp
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppCCTypeValuesTable.cpp
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppCCTypeValuesTable.cpp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppCCalculateFieldValues.cpp
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppCCalculateFieldValues.cpp
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppCCalculateFieldValues.cpp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppCCalculateTypeValues.cpp
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppCCalculateTypeValues.cpp
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppCCalculateTypeValues.cpp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppCodeRegistration.cpp
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppCodeRegistration.cpp
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppCodeRegistration.cpp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppGenericInstDefinitions.c
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppGenericInstDefinitions.c
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppGenericInstDefinitions.c
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppGenericMethodDefinitions.c
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppGenericMethodDefinitions.c
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppGenericMethodDefinitions.c
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppGenericMethodPointerTable.cpp
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppGenericMethodPointerTable.cpp
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppGenericMethodPointerTable.cpp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppGenericMethodTable.c
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppGenericMethodTable.c
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppGenericMethodTable.c
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppInvokerTable.cpp
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppInvokerTable.cpp
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppInvokerTable.cpp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppMetadataRegistration.c
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppMetadataRegistration.c
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppMetadataRegistration.c
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppMetadataUsage.c
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppMetadataUsage.c
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppMetadataUsage.c
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppTypeDefinitions.c
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppTypeDefinitions.c
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\Il2CppTypeDefinitions.c
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\Mono.Security_CodeGen.c
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\Mono.Security_CodeGen.c
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\Mono.Security_CodeGen.c
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\Symbols\MethodMap.tsv
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\Symbols\MethodMap.tsv
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\Symbols\MethodMap.tsv
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\System.Configuration_CodeGen.c
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\System.Configuration_CodeGen.c
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\System.Configuration_CodeGen.c
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\System.Core_CodeGen.c
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\System.Core_CodeGen.c
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\System.Core_CodeGen.c
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\System.Xml_CodeGen.c
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\System.Xml_CodeGen.c
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\System.Xml_CodeGen.c
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\System_CodeGen.c
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\System_CodeGen.c
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\System_CodeGen.c
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityClassRegistration.cpp
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityClassRegistration.cpp
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityClassRegistration.cpp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.AudioModule.cpp
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.AudioModule.cpp
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.AudioModule.cpp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.AudioModule_Attr.cpp
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.AudioModule_Attr.cpp
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.AudioModule_Attr.cpp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.AudioModule_CodeGen.c
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.AudioModule_CodeGen.c
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.AudioModule_CodeGen.c
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.CoreModule.cpp
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.CoreModule.cpp
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.CoreModule.cpp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.CoreModule_Attr.cpp
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.CoreModule_Attr.cpp
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.CoreModule_Attr.cpp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.CoreModule_CodeGen.c
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.CoreModule_CodeGen.c
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.CoreModule_CodeGen.c
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.InputLegacyModule_CodeGen.c
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.InputLegacyModule_CodeGen.c
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.InputLegacyModule_CodeGen.c
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.PhysicsModule_CodeGen.c
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.PhysicsModule_CodeGen.c
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.PhysicsModule_CodeGen.c
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.SharedInternalsModule.cpp
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.SharedInternalsModule.cpp
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.SharedInternalsModule.cpp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.SharedInternalsModule_CodeGen.c
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.SharedInternalsModule_CodeGen.c
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityEngine.SharedInternalsModule_CodeGen.c
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityICallRegistration.cpp
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityICallRegistration.cpp
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\UnityICallRegistration.cpp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppOutput\mscorlib_CodeGen.c
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppOutput\mscorlib_CodeGen.c
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppOutput\mscorlib_CodeGen.c
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Il2cppBuildCache\WebGL\il2cppStats\profile.json
+      fullPath: C:\Users\Kimede\Asas Celere\Library\Il2cppBuildCache\WebGL\il2cppStats\profile.json
+      projectPath: Library\Il2cppBuildCache\WebGL\il2cppStats\profile.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\LastBuild.buildreport
+      fullPath: C:\Users\Kimede\Asas Celere\Library\LastBuild.buildreport
+      projectPath: Library\LastBuild.buildreport
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\WebGL\Data\Managed\Assembly-CSharp.dll
+      fullPath: C:\Users\Kimede\Asas Celere\Library\PlayerDataCache\WebGL\Data\Managed\Assembly-CSharp.dll
+      projectPath: Library\PlayerDataCache\WebGL\Data\Managed\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\WebGL\Data\Managed\Assembly-CSharp.pdb
+      fullPath: C:\Users\Kimede\Asas Celere\Library\PlayerDataCache\WebGL\Data\Managed\Assembly-CSharp.pdb
+      projectPath: Library\PlayerDataCache\WebGL\Data\Managed\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\WebGL\Data\data.unity3d
+      fullPath: C:\Users\Kimede\Asas Celere\Library\PlayerDataCache\WebGL\Data\data.unity3d
+      projectPath: Library\PlayerDataCache\WebGL\Data\data.unity3d
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\WebGL\Data\sharedassets0.resource
+      fullPath: C:\Users\Kimede\Asas Celere\Library\PlayerDataCache\WebGL\Data\sharedassets0.resource
+      projectPath: Library\PlayerDataCache\WebGL\Data\sharedassets0.resource
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\WebGL\ScriptsOnlyCache.yaml
+      fullPath: C:\Users\Kimede\Asas Celere\Library\PlayerDataCache\WebGL\ScriptsOnlyCache.yaml
+      projectPath: Library\PlayerDataCache\WebGL\ScriptsOnlyCache.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+      fullPath: C:\Users\Kimede\Asas Celere\Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\ScriptingAssemblies.json
+      fullPath: C:\Users\Kimede\Asas Celere\Library\PlayerDataCache\Win64\Data\ScriptingAssemblies.json
+      projectPath: Library\PlayerDataCache\Win64\Data\ScriptingAssemblies.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\globalgamemanagers
+      fullPath: C:\Users\Kimede\Asas Celere\Library\PlayerDataCache\Win64\Data\globalgamemanagers
+      projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+      fullPath: C:\Users\Kimede\Asas Celere\Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+      projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\level0
+      fullPath: C:\Users\Kimede\Asas Celere\Library\PlayerDataCache\Win64\Data\level0
+      projectPath: Library\PlayerDataCache\Win64\Data\level0
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+      fullPath: C:\Users\Kimede\Asas Celere\Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+      projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
+      fullPath: C:\Users\Kimede\Asas Celere\Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
+      projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\sharedassets0.resource
+      fullPath: C:\Users\Kimede\Asas Celere\Library\PlayerDataCache\Win64\Data\sharedassets0.resource
+      projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.resource
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\ScriptsOnlyCache.yaml
+      fullPath: C:\Users\Kimede\Asas Celere\Library\PlayerDataCache\Win64\ScriptsOnlyCache.yaml
+      projectPath: Library\PlayerDataCache\Win64\ScriptsOnlyCache.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SceneVisibilityState.asset
+      fullPath: C:\Users\Kimede\Asas Celere\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ShaderCache\0\00f20e4cea49a6c46681cafefc3d473b.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\0\00f20e4cea49a6c46681cafefc3d473b.bin
+      projectPath: Library\ShaderCache\0\00f20e4cea49a6c46681cafefc3d473b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\0\04cf5bf966ab5c783df3c75877465e97.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\0\04cf5bf966ab5c783df3c75877465e97.bin
+      projectPath: Library\ShaderCache\0\04cf5bf966ab5c783df3c75877465e97.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\0\0774c99aa67d4fdb52e210e4e39de5dd.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\0\0774c99aa67d4fdb52e210e4e39de5dd.bin
+      projectPath: Library\ShaderCache\0\0774c99aa67d4fdb52e210e4e39de5dd.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\0\079831336f6b047ecbe7a5c8924e9776.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\0\079831336f6b047ecbe7a5c8924e9776.bin
+      projectPath: Library\ShaderCache\0\079831336f6b047ecbe7a5c8924e9776.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\0\08048690d1de6e402c8d752d0c0ec614.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\0\08048690d1de6e402c8d752d0c0ec614.bin
+      projectPath: Library\ShaderCache\0\08048690d1de6e402c8d752d0c0ec614.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\0\0804ddd7831f444bc7267b6178cc4d4d.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\0\0804ddd7831f444bc7267b6178cc4d4d.bin
+      projectPath: Library\ShaderCache\0\0804ddd7831f444bc7267b6178cc4d4d.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\0\0b751c7b8c591b1fa441df36e3001623.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\0\0b751c7b8c591b1fa441df36e3001623.bin
+      projectPath: Library\ShaderCache\0\0b751c7b8c591b1fa441df36e3001623.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\0\0c79d502ba45e1a54e35a8948864573c.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\0\0c79d502ba45e1a54e35a8948864573c.bin
+      projectPath: Library\ShaderCache\0\0c79d502ba45e1a54e35a8948864573c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\0\0d6e8e9fe3b321c524b120f63401db44.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\0\0d6e8e9fe3b321c524b120f63401db44.bin
+      projectPath: Library\ShaderCache\0\0d6e8e9fe3b321c524b120f63401db44.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\1\10c18fa586fb8292e85d0e763bbea22b.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\1\10c18fa586fb8292e85d0e763bbea22b.bin
+      projectPath: Library\ShaderCache\1\10c18fa586fb8292e85d0e763bbea22b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\1\12d85ddbbc8f576c6aa70ad468c2521d.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\1\12d85ddbbc8f576c6aa70ad468c2521d.bin
+      projectPath: Library\ShaderCache\1\12d85ddbbc8f576c6aa70ad468c2521d.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\1\17445c2ebf06a48ee81b5fad02739e1c.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\1\17445c2ebf06a48ee81b5fad02739e1c.bin
+      projectPath: Library\ShaderCache\1\17445c2ebf06a48ee81b5fad02739e1c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\1\19ccfb39d94b39ca30da0835751a0f2e.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\1\19ccfb39d94b39ca30da0835751a0f2e.bin
+      projectPath: Library\ShaderCache\1\19ccfb39d94b39ca30da0835751a0f2e.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\1\1a56f8a9b950cd7b8bcbe0b7beb61d6d.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\1\1a56f8a9b950cd7b8bcbe0b7beb61d6d.bin
+      projectPath: Library\ShaderCache\1\1a56f8a9b950cd7b8bcbe0b7beb61d6d.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\1\1b465cd076c5f6baef80d95b4596dcba.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\1\1b465cd076c5f6baef80d95b4596dcba.bin
+      projectPath: Library\ShaderCache\1\1b465cd076c5f6baef80d95b4596dcba.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\1\1d035e4c88cdeee8988baaf5c63a006b.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\1\1d035e4c88cdeee8988baaf5c63a006b.bin
+      projectPath: Library\ShaderCache\1\1d035e4c88cdeee8988baaf5c63a006b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\1\1dbd36f5d78138b016e4da34b695fd60.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\1\1dbd36f5d78138b016e4da34b695fd60.bin
+      projectPath: Library\ShaderCache\1\1dbd36f5d78138b016e4da34b695fd60.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\1\1e3f92f7403bf25b17aacf65bc705bd3.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\1\1e3f92f7403bf25b17aacf65bc705bd3.bin
+      projectPath: Library\ShaderCache\1\1e3f92f7403bf25b17aacf65bc705bd3.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\2\21f7f2115ab9088acf8b047216b3c735.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\2\21f7f2115ab9088acf8b047216b3c735.bin
+      projectPath: Library\ShaderCache\2\21f7f2115ab9088acf8b047216b3c735.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\2\228984fb4694cb9c692fcb76df1597c1.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\2\228984fb4694cb9c692fcb76df1597c1.bin
+      projectPath: Library\ShaderCache\2\228984fb4694cb9c692fcb76df1597c1.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\2\230b5aa469641aea0d994688bb4e92fc.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\2\230b5aa469641aea0d994688bb4e92fc.bin
+      projectPath: Library\ShaderCache\2\230b5aa469641aea0d994688bb4e92fc.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\2\2439df9ebd50d71ceb5041cbdd8ba948.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\2\2439df9ebd50d71ceb5041cbdd8ba948.bin
+      projectPath: Library\ShaderCache\2\2439df9ebd50d71ceb5041cbdd8ba948.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\2\275de935ac906947a2b83ce84a1e3f5a.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\2\275de935ac906947a2b83ce84a1e3f5a.bin
+      projectPath: Library\ShaderCache\2\275de935ac906947a2b83ce84a1e3f5a.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\3\35f5d4fecf8106ef041c6f77c846b7de.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\3\35f5d4fecf8106ef041c6f77c846b7de.bin
+      projectPath: Library\ShaderCache\3\35f5d4fecf8106ef041c6f77c846b7de.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\3\3dfbadf88c0714c4bb36930a13b18d88.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\3\3dfbadf88c0714c4bb36930a13b18d88.bin
+      projectPath: Library\ShaderCache\3\3dfbadf88c0714c4bb36930a13b18d88.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\4\4036730d39cf7c855146283d4b137e30.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\4\4036730d39cf7c855146283d4b137e30.bin
+      projectPath: Library\ShaderCache\4\4036730d39cf7c855146283d4b137e30.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\4\4584048011d71c772ec0ba044a2b4865.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\4\4584048011d71c772ec0ba044a2b4865.bin
+      projectPath: Library\ShaderCache\4\4584048011d71c772ec0ba044a2b4865.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\4\4833cf3d5a05d5cdb29b37044f677655.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\4\4833cf3d5a05d5cdb29b37044f677655.bin
+      projectPath: Library\ShaderCache\4\4833cf3d5a05d5cdb29b37044f677655.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\4\4caca4a924176daf945a775bd2804e19.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\4\4caca4a924176daf945a775bd2804e19.bin
+      projectPath: Library\ShaderCache\4\4caca4a924176daf945a775bd2804e19.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\4\4ffd2cdeb6d398728b4b5e7da7042fa3.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\4\4ffd2cdeb6d398728b4b5e7da7042fa3.bin
+      projectPath: Library\ShaderCache\4\4ffd2cdeb6d398728b4b5e7da7042fa3.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\5\50fc5da0eeca10be360af6b7e582cf4a.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\5\50fc5da0eeca10be360af6b7e582cf4a.bin
+      projectPath: Library\ShaderCache\5\50fc5da0eeca10be360af6b7e582cf4a.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\5\51ed61e6b1331abac45e02dba57b9961.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\5\51ed61e6b1331abac45e02dba57b9961.bin
+      projectPath: Library\ShaderCache\5\51ed61e6b1331abac45e02dba57b9961.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\5\529727db6287dbe252a0ca6b0d9a39d6.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\5\529727db6287dbe252a0ca6b0d9a39d6.bin
+      projectPath: Library\ShaderCache\5\529727db6287dbe252a0ca6b0d9a39d6.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\5\59a23fd55e8377ded302eccfc2f16dc3.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\5\59a23fd55e8377ded302eccfc2f16dc3.bin
+      projectPath: Library\ShaderCache\5\59a23fd55e8377ded302eccfc2f16dc3.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\5\59e6d601a7eef04a6693bdf387e5a399.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\5\59e6d601a7eef04a6693bdf387e5a399.bin
+      projectPath: Library\ShaderCache\5\59e6d601a7eef04a6693bdf387e5a399.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\5\5c084dcd6e90d2bb5bb61d075d955e00.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\5\5c084dcd6e90d2bb5bb61d075d955e00.bin
+      projectPath: Library\ShaderCache\5\5c084dcd6e90d2bb5bb61d075d955e00.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\6\60a912d42713e15d74a417dcf5355971.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\6\60a912d42713e15d74a417dcf5355971.bin
+      projectPath: Library\ShaderCache\6\60a912d42713e15d74a417dcf5355971.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\6\60e9f2f7e462cf61ba4461b25e646172.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\6\60e9f2f7e462cf61ba4461b25e646172.bin
+      projectPath: Library\ShaderCache\6\60e9f2f7e462cf61ba4461b25e646172.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\6\61fe101143ac43c4ed90a85aaabf8b95.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\6\61fe101143ac43c4ed90a85aaabf8b95.bin
+      projectPath: Library\ShaderCache\6\61fe101143ac43c4ed90a85aaabf8b95.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\6\6391a6bddc16f5dcf30c6cb8ed0a36ff.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\6\6391a6bddc16f5dcf30c6cb8ed0a36ff.bin
+      projectPath: Library\ShaderCache\6\6391a6bddc16f5dcf30c6cb8ed0a36ff.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\6\6470563144763835e70a91ccc3730556.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\6\6470563144763835e70a91ccc3730556.bin
+      projectPath: Library\ShaderCache\6\6470563144763835e70a91ccc3730556.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\6\6fcdb2a2b0ee85666e5a73b629bce76a.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\6\6fcdb2a2b0ee85666e5a73b629bce76a.bin
+      projectPath: Library\ShaderCache\6\6fcdb2a2b0ee85666e5a73b629bce76a.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\7\71451a4e75016963d817ac9d45bffe43.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\7\71451a4e75016963d817ac9d45bffe43.bin
+      projectPath: Library\ShaderCache\7\71451a4e75016963d817ac9d45bffe43.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\7\7373dcc6f14729203e9e20f5931d9c01.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\7\7373dcc6f14729203e9e20f5931d9c01.bin
+      projectPath: Library\ShaderCache\7\7373dcc6f14729203e9e20f5931d9c01.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\7\78c80ed914258c029b1c0cf7b835f0ce.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\7\78c80ed914258c029b1c0cf7b835f0ce.bin
+      projectPath: Library\ShaderCache\7\78c80ed914258c029b1c0cf7b835f0ce.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\8\8a192eddee4fa1784bfe361dcc3b8a22.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\8\8a192eddee4fa1784bfe361dcc3b8a22.bin
+      projectPath: Library\ShaderCache\8\8a192eddee4fa1784bfe361dcc3b8a22.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\8\8f86169a22be85cbcc0f54d57a23aa76.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\8\8f86169a22be85cbcc0f54d57a23aa76.bin
+      projectPath: Library\ShaderCache\8\8f86169a22be85cbcc0f54d57a23aa76.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\9\914681f31df93a9804974632bcc1c565.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\9\914681f31df93a9804974632bcc1c565.bin
+      projectPath: Library\ShaderCache\9\914681f31df93a9804974632bcc1c565.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\9\91c2e0709a6b48b02831c8159d4c1577.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\9\91c2e0709a6b48b02831c8159d4c1577.bin
+      projectPath: Library\ShaderCache\9\91c2e0709a6b48b02831c8159d4c1577.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\9\930fbaef2d2ec4b95ee20edb51993d0c.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\9\930fbaef2d2ec4b95ee20edb51993d0c.bin
+      projectPath: Library\ShaderCache\9\930fbaef2d2ec4b95ee20edb51993d0c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\9\93ec3bb7372e47beae88d90d909649f3.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\9\93ec3bb7372e47beae88d90d909649f3.bin
+      projectPath: Library\ShaderCache\9\93ec3bb7372e47beae88d90d909649f3.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\9\9fec70a26bccbfebda561ff415ec9c61.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\9\9fec70a26bccbfebda561ff415ec9c61.bin
+      projectPath: Library\ShaderCache\9\9fec70a26bccbfebda561ff415ec9c61.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\9\9ff98b09f3a82454eedc95faea410b84.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\9\9ff98b09f3a82454eedc95faea410b84.bin
+      projectPath: Library\ShaderCache\9\9ff98b09f3a82454eedc95faea410b84.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\EditorEncounteredVariants
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\EditorEncounteredVariants
+      projectPath: Library\ShaderCache\EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ShaderCache\a\a6203c34f5f8dcd9026dcc5b4f3015eb.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\a\a6203c34f5f8dcd9026dcc5b4f3015eb.bin
+      projectPath: Library\ShaderCache\a\a6203c34f5f8dcd9026dcc5b4f3015eb.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\b\b6580ce99b56c0d2dac018174cf14e01.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\b\b6580ce99b56c0d2dac018174cf14e01.bin
+      projectPath: Library\ShaderCache\b\b6580ce99b56c0d2dac018174cf14e01.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\b\b80b147689d9a97bc90c363b501c70ec.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\b\b80b147689d9a97bc90c363b501c70ec.bin
+      projectPath: Library\ShaderCache\b\b80b147689d9a97bc90c363b501c70ec.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\b\b9dc4ab57546096f330c3355897b7322.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\b\b9dc4ab57546096f330c3355897b7322.bin
+      projectPath: Library\ShaderCache\b\b9dc4ab57546096f330c3355897b7322.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\b\be2021153e391442cd53d462514bb8ff.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\b\be2021153e391442cd53d462514bb8ff.bin
+      projectPath: Library\ShaderCache\b\be2021153e391442cd53d462514bb8ff.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\b\bfff2615d1f1c10023c9d3bcaf89065b.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\b\bfff2615d1f1c10023c9d3bcaf89065b.bin
+      projectPath: Library\ShaderCache\b\bfff2615d1f1c10023c9d3bcaf89065b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\c\c0f28bb20105160ce6d0c08270595a5f.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\c\c0f28bb20105160ce6d0c08270595a5f.bin
+      projectPath: Library\ShaderCache\c\c0f28bb20105160ce6d0c08270595a5f.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\c\c449e3e1e3f745214d210c15e416be69.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\c\c449e3e1e3f745214d210c15e416be69.bin
+      projectPath: Library\ShaderCache\c\c449e3e1e3f745214d210c15e416be69.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\c\c9b056281fc866c6fbf466e5c513be54.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\c\c9b056281fc866c6fbf466e5c513be54.bin
+      projectPath: Library\ShaderCache\c\c9b056281fc866c6fbf466e5c513be54.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\c\cb8ba5f1bce9ee566862758efd31643a.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\c\cb8ba5f1bce9ee566862758efd31643a.bin
+      projectPath: Library\ShaderCache\c\cb8ba5f1bce9ee566862758efd31643a.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\d\d2dcb938f966745bd87517fc342a7f87.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\d\d2dcb938f966745bd87517fc342a7f87.bin
+      projectPath: Library\ShaderCache\d\d2dcb938f966745bd87517fc342a7f87.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\d\d860f5d6c48fc4b2f3a74a595ebe771d.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\d\d860f5d6c48fc4b2f3a74a595ebe771d.bin
+      projectPath: Library\ShaderCache\d\d860f5d6c48fc4b2f3a74a595ebe771d.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\d\d8caba4821c1885762d66859273db5fc.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\d\d8caba4821c1885762d66859273db5fc.bin
+      projectPath: Library\ShaderCache\d\d8caba4821c1885762d66859273db5fc.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\d\d91b138d3a8bb90ebdb5a818cc92ee05.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\d\d91b138d3a8bb90ebdb5a818cc92ee05.bin
+      projectPath: Library\ShaderCache\d\d91b138d3a8bb90ebdb5a818cc92ee05.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\d\d97523727109a4b18dfb092796a32404.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\d\d97523727109a4b18dfb092796a32404.bin
+      projectPath: Library\ShaderCache\d\d97523727109a4b18dfb092796a32404.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\d\dbce7bd8908d9ba50625df93221669b7.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\d\dbce7bd8908d9ba50625df93221669b7.bin
+      projectPath: Library\ShaderCache\d\dbce7bd8908d9ba50625df93221669b7.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\d\df9a6bfa8d473ed822bca3e15e5105bb.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\d\df9a6bfa8d473ed822bca3e15e5105bb.bin
+      projectPath: Library\ShaderCache\d\df9a6bfa8d473ed822bca3e15e5105bb.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\e\e46941c1ce065b649fdaf9dbf278e10d.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\e\e46941c1ce065b649fdaf9dbf278e10d.bin
+      projectPath: Library\ShaderCache\e\e46941c1ce065b649fdaf9dbf278e10d.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\e\e77c72c2ce9d9aa2dec15d2d384e071c.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\e\e77c72c2ce9d9aa2dec15d2d384e071c.bin
+      projectPath: Library\ShaderCache\e\e77c72c2ce9d9aa2dec15d2d384e071c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\e\e861782056a1a0698ad9982594e785d2.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\e\e861782056a1a0698ad9982594e785d2.bin
+      projectPath: Library\ShaderCache\e\e861782056a1a0698ad9982594e785d2.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\e\e891f1168de8413e2a8f4cacd45fc395.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\e\e891f1168de8413e2a8f4cacd45fc395.bin
+      projectPath: Library\ShaderCache\e\e891f1168de8413e2a8f4cacd45fc395.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\e\e8c9ef38d5e1a828496862c5e9abbba0.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\e\e8c9ef38d5e1a828496862c5e9abbba0.bin
+      projectPath: Library\ShaderCache\e\e8c9ef38d5e1a828496862c5e9abbba0.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\e\ebb1fecf59c8f624ea3906c2a50a9c05.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\e\ebb1fecf59c8f624ea3906c2a50a9c05.bin
+      projectPath: Library\ShaderCache\e\ebb1fecf59c8f624ea3906c2a50a9c05.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\e\ecbfd88392b8ce0974ba8757c123fc08.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\e\ecbfd88392b8ce0974ba8757c123fc08.bin
+      projectPath: Library\ShaderCache\e\ecbfd88392b8ce0974ba8757c123fc08.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\e\ee052af7072dd6ade9290df6c0544093.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\e\ee052af7072dd6ade9290df6c0544093.bin
+      projectPath: Library\ShaderCache\e\ee052af7072dd6ade9290df6c0544093.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\e\ef940227b25846ecbf247b27f8dc518d.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\e\ef940227b25846ecbf247b27f8dc518d.bin
+      projectPath: Library\ShaderCache\e\ef940227b25846ecbf247b27f8dc518d.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\f\f0d9d22b89e759828f78b8eab94c0928.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\f\f0d9d22b89e759828f78b8eab94c0928.bin
+      projectPath: Library\ShaderCache\f\f0d9d22b89e759828f78b8eab94c0928.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\f\f3f6f7e3f8f2d1f7c20f1d41d7c5b789.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\f\f3f6f7e3f8f2d1f7c20f1d41d7c5b789.bin
+      projectPath: Library\ShaderCache\f\f3f6f7e3f8f2d1f7c20f1d41d7c5b789.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\f\f8b0330fc486b07de16def7cc36cc3f7.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\f\f8b0330fc486b07de16def7cc36cc3f7.bin
+      projectPath: Library\ShaderCache\f\f8b0330fc486b07de16def7cc36cc3f7.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\f\fb6772c27475c777a8a09e06b74fe867.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\f\fb6772c27475c777a8a09e06b74fe867.bin
+      projectPath: Library\ShaderCache\f\fb6772c27475c777a8a09e06b74fe867.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\f\fc7b39e61c82d14fbc66f159f0f7ebed.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\f\fc7b39e61c82d14fbc66f159f0f7ebed.bin
+      projectPath: Library\ShaderCache\f\fc7b39e61c82d14fbc66f159f0f7ebed.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\f\fed7d0005c51940d93289187c8ec8a26.bin
+      fullPath: C:\Users\Kimede\Asas Celere\Library\ShaderCache\f\fed7d0005c51940d93289187c8ec8a26.bin
+      projectPath: Library\ShaderCache\f\fed7d0005c51940d93289187c8ec8a26.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\Kimede\Asas Celere\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+      fullPath: C:\Users\Kimede\Asas Celere\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+      projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Kimede\Asas Celere\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Kimede\Asas Celere\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Kimede\Asas Celere\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Kimede\Asas Celere\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Kimede\Asas Celere\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\Kimede\Asas Celere\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Kimede\Asas Celere\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\018737D21607625CD8931F95E4826B15.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\018737D21607625CD8931F95E4826B15.o
+      projectPath: Library\il2cpp_cache\018737D21607625CD8931F95E4826B15.o
+      originalPath: Library\il2cpp_cache\8726A1D1E2F6E8D5A7CA7D3F76C846D0.o
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\028BB5F991D95C92611E02BE1270EFFA.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\028BB5F991D95C92611E02BE1270EFFA.o
+      projectPath: Library\il2cpp_cache\028BB5F991D95C92611E02BE1270EFFA.o
+      originalPath: Library\il2cpp_cache\D4A68CE5B722585C51D8FD67BA120C33.o
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\02A7078167B2256DA1F96088D95B2E9A.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\02A7078167B2256DA1F96088D95B2E9A.o
+      projectPath: Library\il2cpp_cache\02A7078167B2256DA1F96088D95B2E9A.o
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\07190816882C11A70E23030D249D5A7E.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\07190816882C11A70E23030D249D5A7E.o
+      projectPath: Library\il2cpp_cache\07190816882C11A70E23030D249D5A7E.o
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\0E0D115B1B58E9447F50CBDC3450A4AF.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\0E0D115B1B58E9447F50CBDC3450A4AF.o
+      projectPath: Library\il2cpp_cache\0E0D115B1B58E9447F50CBDC3450A4AF.o
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\1262A5493BD15081B7BF63B708F72706.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\1262A5493BD15081B7BF63B708F72706.o
+      projectPath: Library\il2cpp_cache\1262A5493BD15081B7BF63B708F72706.o
+      originalPath: Library\il2cpp_cache\2B726CF599C6372F05C6F48C307D17C0.o
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\158547E830187E20D7C1BB5C562D44EF.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\158547E830187E20D7C1BB5C562D44EF.o
+      projectPath: Library\il2cpp_cache\158547E830187E20D7C1BB5C562D44EF.o
+      originalPath: Library\il2cpp_cache\8CD29401EE231C82971BED3C591FD96F.o
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\16AE57DB12E96782CE91848936A5768F.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\16AE57DB12E96782CE91848936A5768F.o
+      projectPath: Library\il2cpp_cache\16AE57DB12E96782CE91848936A5768F.o
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\1B08E73F06820498D461A8A015255FC2.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\1B08E73F06820498D461A8A015255FC2.o
+      projectPath: Library\il2cpp_cache\1B08E73F06820498D461A8A015255FC2.o
+      originalPath: Library\il2cpp_cache\2323FA047F4164C16C6AD9EDC44B84FC.o
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\211781857FC9F2CBEF38326346C96BBB.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\211781857FC9F2CBEF38326346C96BBB.o
+      projectPath: Library\il2cpp_cache\211781857FC9F2CBEF38326346C96BBB.o
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\233854BE811CEED54ED7E2E60CE33DB2.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\233854BE811CEED54ED7E2E60CE33DB2.o
+      projectPath: Library\il2cpp_cache\233854BE811CEED54ED7E2E60CE33DB2.o
+      originalPath: Library\il2cpp_cache\5D6362751CA37608D6AFAEF8E19D5EAB.o
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\2AED9A778CB9A9DFC9B3DAFE91882FDE.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\2AED9A778CB9A9DFC9B3DAFE91882FDE.o
+      projectPath: Library\il2cpp_cache\2AED9A778CB9A9DFC9B3DAFE91882FDE.o
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\2B31FE4D73A95617935766F101568964.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\2B31FE4D73A95617935766F101568964.o
+      projectPath: Library\il2cpp_cache\2B31FE4D73A95617935766F101568964.o
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\30104AC828C2D6BE45C96D65402198E2.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\30104AC828C2D6BE45C96D65402198E2.o
+      projectPath: Library\il2cpp_cache\30104AC828C2D6BE45C96D65402198E2.o
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\31F60CC0C7499A7497F495FD19CF989D.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\31F60CC0C7499A7497F495FD19CF989D.o
+      projectPath: Library\il2cpp_cache\31F60CC0C7499A7497F495FD19CF989D.o
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\3351EF3B05D98595844E646E5D6D3E60.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\3351EF3B05D98595844E646E5D6D3E60.o
+      projectPath: Library\il2cpp_cache\3351EF3B05D98595844E646E5D6D3E60.o
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\39542B630A104928C0A6EF810536DCE6.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\39542B630A104928C0A6EF810536DCE6.o
+      projectPath: Library\il2cpp_cache\39542B630A104928C0A6EF810536DCE6.o
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\3986589FF8D159927FF5867716A01022.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\3986589FF8D159927FF5867716A01022.o
+      projectPath: Library\il2cpp_cache\3986589FF8D159927FF5867716A01022.o
+      originalPath: Library\il2cpp_cache\E5713F496A3CA77853EA6A74A2548C1C.o
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\3E1CAB4C0AA75687EB6917A1EFE4A14A.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\3E1CAB4C0AA75687EB6917A1EFE4A14A.o
+      projectPath: Library\il2cpp_cache\3E1CAB4C0AA75687EB6917A1EFE4A14A.o
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\440E3DACC8C3560B2DE8C1260BA871D6.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\440E3DACC8C3560B2DE8C1260BA871D6.o
+      projectPath: Library\il2cpp_cache\440E3DACC8C3560B2DE8C1260BA871D6.o
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\469787D7E13C08E843348F215FFDFCCA.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\469787D7E13C08E843348F215FFDFCCA.o
+      projectPath: Library\il2cpp_cache\469787D7E13C08E843348F215FFDFCCA.o
+      originalPath: Library\il2cpp_cache\4B2377D6748FA405098DFBD5FB1B56D8.o
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\470E5B0D34C7A6AC201BA055964632F3.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\470E5B0D34C7A6AC201BA055964632F3.o
+      projectPath: Library\il2cpp_cache\470E5B0D34C7A6AC201BA055964632F3.o
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\4F3FAF5904DF6C8A710772B41105FB69.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\4F3FAF5904DF6C8A710772B41105FB69.o
+      projectPath: Library\il2cpp_cache\4F3FAF5904DF6C8A710772B41105FB69.o
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\57057565D206439E77FFFE6A1AC01D88.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\57057565D206439E77FFFE6A1AC01D88.o
+      projectPath: Library\il2cpp_cache\57057565D206439E77FFFE6A1AC01D88.o
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\5A31220886B70509F457FFD5D55BF84F.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\5A31220886B70509F457FFD5D55BF84F.o
+      projectPath: Library\il2cpp_cache\5A31220886B70509F457FFD5D55BF84F.o
+      originalPath: Library\il2cpp_cache\9E89C3981676DEB3A3E5A124D22024D2.o
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\5AAD4802FF1949D9BF8402E69E4F3FC1.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\5AAD4802FF1949D9BF8402E69E4F3FC1.o
+      projectPath: Library\il2cpp_cache\5AAD4802FF1949D9BF8402E69E4F3FC1.o
+      originalPath: Library\il2cpp_cache\C90C4A9BDAF9F4A93FF0EFE072A44B31.o
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\5CFBEFF6DF49419434DAEF716E8A132E.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\5CFBEFF6DF49419434DAEF716E8A132E.o
+      projectPath: Library\il2cpp_cache\5CFBEFF6DF49419434DAEF716E8A132E.o
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\5EA4C8B25C60BC7F67B34C288ABC930E.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\5EA4C8B25C60BC7F67B34C288ABC930E.o
+      projectPath: Library\il2cpp_cache\5EA4C8B25C60BC7F67B34C288ABC930E.o
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\6ADAED786C50AA9247C748017AD7EA81.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\6ADAED786C50AA9247C748017AD7EA81.o
+      projectPath: Library\il2cpp_cache\6ADAED786C50AA9247C748017AD7EA81.o
+      originalPath: Library\il2cpp_cache\CDB74E7847F00DCF1F46EAAF632F7F81.o
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\7FF98D2044BCEBF8C6C6B26C147698D1.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\7FF98D2044BCEBF8C6C6B26C147698D1.o
+      projectPath: Library\il2cpp_cache\7FF98D2044BCEBF8C6C6B26C147698D1.o
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\8360D134D59022D8AC80804290A15AE0.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\8360D134D59022D8AC80804290A15AE0.o
+      projectPath: Library\il2cpp_cache\8360D134D59022D8AC80804290A15AE0.o
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\91BB780BEF719F1036C70DFE9B20050B.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\91BB780BEF719F1036C70DFE9B20050B.o
+      projectPath: Library\il2cpp_cache\91BB780BEF719F1036C70DFE9B20050B.o
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\99AD61D250A0B5E5BB4C2E094DCA314E.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\99AD61D250A0B5E5BB4C2E094DCA314E.o
+      projectPath: Library\il2cpp_cache\99AD61D250A0B5E5BB4C2E094DCA314E.o
+      originalPath: Library\il2cpp_cache\1C9AFAFFA192840FA9AE587D3AA2D9F3.o
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\9AFB237574E1605549EE0535FDD74FC2.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\9AFB237574E1605549EE0535FDD74FC2.o
+      projectPath: Library\il2cpp_cache\9AFB237574E1605549EE0535FDD74FC2.o
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\9BB4F46D811037E5D7FE0CBF46D53B97.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\9BB4F46D811037E5D7FE0CBF46D53B97.o
+      projectPath: Library\il2cpp_cache\9BB4F46D811037E5D7FE0CBF46D53B97.o
+      originalPath: Library\il2cpp_cache\0C16101F773269C687F6C70C8789957D.o
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\A52359C998B6E0041703E271E8504EB5.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\A52359C998B6E0041703E271E8504EB5.o
+      projectPath: Library\il2cpp_cache\A52359C998B6E0041703E271E8504EB5.o
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\A61A03AC722D184B8CB74B8CA0FFA43A.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\A61A03AC722D184B8CB74B8CA0FFA43A.o
+      projectPath: Library\il2cpp_cache\A61A03AC722D184B8CB74B8CA0FFA43A.o
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\A6988900ED5799E853E02866CC4F2936.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\A6988900ED5799E853E02866CC4F2936.o
+      projectPath: Library\il2cpp_cache\A6988900ED5799E853E02866CC4F2936.o
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\A90EE50EE800D65CD8E83E382FAE3D72.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\A90EE50EE800D65CD8E83E382FAE3D72.o
+      projectPath: Library\il2cpp_cache\A90EE50EE800D65CD8E83E382FAE3D72.o
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\ABB4590ECBA950C0E6392ACFA4695E7A.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\ABB4590ECBA950C0E6392ACFA4695E7A.o
+      projectPath: Library\il2cpp_cache\ABB4590ECBA950C0E6392ACFA4695E7A.o
+      originalPath: Library\il2cpp_cache\962D6FCDB69097C276EC35DB8859AF60.o
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\B02471687965354B764BC7EB797F8FA7.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\B02471687965354B764BC7EB797F8FA7.o
+      projectPath: Library\il2cpp_cache\B02471687965354B764BC7EB797F8FA7.o
+      originalPath: Library\il2cpp_cache\CF84678DB4710A2B3DA38E27C7748D15.o
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\BF549822EDE3D686E896A07EF67CC9B4.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\BF549822EDE3D686E896A07EF67CC9B4.o
+      projectPath: Library\il2cpp_cache\BF549822EDE3D686E896A07EF67CC9B4.o
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\CA4FFB64824F2247BFFF8F2876306F3F.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\CA4FFB64824F2247BFFF8F2876306F3F.o
+      projectPath: Library\il2cpp_cache\CA4FFB64824F2247BFFF8F2876306F3F.o
+      originalPath: Library\il2cpp_cache\19CF0F116C9E348FA7B40E0E63B1BE19.o
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\D5A4DFDC430B8C328B9259DF57C597CF.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\D5A4DFDC430B8C328B9259DF57C597CF.o
+      projectPath: Library\il2cpp_cache\D5A4DFDC430B8C328B9259DF57C597CF.o
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\D7BFD154B0BBF0931A24121FA6D6130C.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\D7BFD154B0BBF0931A24121FA6D6130C.o
+      projectPath: Library\il2cpp_cache\D7BFD154B0BBF0931A24121FA6D6130C.o
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\DB408DDD374FB800A63233816E27B083.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\DB408DDD374FB800A63233816E27B083.o
+      projectPath: Library\il2cpp_cache\DB408DDD374FB800A63233816E27B083.o
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\E80C70DF3EB24623C4253809CDD8A2DA.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\E80C70DF3EB24623C4253809CDD8A2DA.o
+      projectPath: Library\il2cpp_cache\E80C70DF3EB24623C4253809CDD8A2DA.o
+      originalPath: Library\il2cpp_cache\328D3E79FC005E8D8033FD8CE0EB9093.o
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\EF15036FAB79F70F12046980833CE888.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\EF15036FAB79F70F12046980833CE888.o
+      projectPath: Library\il2cpp_cache\EF15036FAB79F70F12046980833CE888.o
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\F421EC1474DBF39A494753F95C6346EA.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\F421EC1474DBF39A494753F95C6346EA.o
+      projectPath: Library\il2cpp_cache\F421EC1474DBF39A494753F95C6346EA.o
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\F7105F1088D4BE610B91483AA4CD3B30.o
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\F7105F1088D4BE610B91483AA4CD3B30.o
+      projectPath: Library\il2cpp_cache\F7105F1088D4BE610B91483AA4CD3B30.o
+      originalPath: Library\il2cpp_cache\08348E8207C77472A06318C3E6EC051C.o
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\linkresult_C40CD21C83C73ACB7F196DC05A88EEE0\build.bc
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\linkresult_C40CD21C83C73ACB7F196DC05A88EEE0\build.bc
+      projectPath: Library\il2cpp_cache\linkresult_C40CD21C83C73ACB7F196DC05A88EEE0\build.bc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\il2cpp_cache\linkresult_E5ECFB2EE0552A82A8A06D1BECF3129B\build.bc
+      fullPath: C:\Users\Kimede\Asas Celere\Library\il2cpp_cache\linkresult_E5ECFB2EE0552A82A8A06D1BECF3129B\build.bc
+      projectPath: Library\il2cpp_cache\linkresult_E5ECFB2EE0552A82A8A06D1BECF3129B\build.bc
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\webgl_cache\linkresult_wasm_1476986ED1AB519F7DB608F59A572B08\build.js
+      fullPath: C:\Users\Kimede\Asas Celere\Library\webgl_cache\linkresult_wasm_1476986ED1AB519F7DB608F59A572B08\build.js
+      projectPath: Library\webgl_cache\linkresult_wasm_1476986ED1AB519F7DB608F59A572B08\build.js
+      originalPath: Library\webgl_cache\linkresult_wasm_FD8A9AC4EBB296EEEF7FB07D653D32DA\build.js
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\webgl_cache\linkresult_wasm_1476986ED1AB519F7DB608F59A572B08\build.js.symbols
+      fullPath: C:\Users\Kimede\Asas Celere\Library\webgl_cache\linkresult_wasm_1476986ED1AB519F7DB608F59A572B08\build.js.symbols
+      projectPath: Library\webgl_cache\linkresult_wasm_1476986ED1AB519F7DB608F59A572B08\build.js.symbols
+      originalPath: Library\webgl_cache\linkresult_wasm_FD8A9AC4EBB296EEEF7FB07D653D32DA\build.js.symbols
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\webgl_cache\linkresult_wasm_1476986ED1AB519F7DB608F59A572B08\build.wasm
+      fullPath: C:\Users\Kimede\Asas Celere\Library\webgl_cache\linkresult_wasm_1476986ED1AB519F7DB608F59A572B08\build.wasm
+      projectPath: Library\webgl_cache\linkresult_wasm_1476986ED1AB519F7DB608F59A572B08\build.wasm
+      originalPath: Library\webgl_cache\linkresult_wasm_FD8A9AC4EBB296EEEF7FB07D653D32DA\build.wasm
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Logs\AssetImportWorker0-prev.log
+      fullPath: C:\Users\Kimede\Asas Celere\Logs\AssetImportWorker0-prev.log
+      projectPath: Logs\AssetImportWorker0-prev.log
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\Kimede\Asas Celere\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Logs\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: C:\Users\Kimede\Asas Celere\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Logs\shadercompiler-UnityShaderCompiler.exe10.log
+      fullPath: C:\Users\Kimede\Asas Celere\Logs\shadercompiler-UnityShaderCompiler.exe10.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe10.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Logs\shadercompiler-UnityShaderCompiler.exe11.log
+      fullPath: C:\Users\Kimede\Asas Celere\Logs\shadercompiler-UnityShaderCompiler.exe11.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe11.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Logs\shadercompiler-UnityShaderCompiler.exe12.log
+      fullPath: C:\Users\Kimede\Asas Celere\Logs\shadercompiler-UnityShaderCompiler.exe12.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe12.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Logs\shadercompiler-UnityShaderCompiler.exe13.log
+      fullPath: C:\Users\Kimede\Asas Celere\Logs\shadercompiler-UnityShaderCompiler.exe13.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe13.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Logs\shadercompiler-UnityShaderCompiler.exe14.log
+      fullPath: C:\Users\Kimede\Asas Celere\Logs\shadercompiler-UnityShaderCompiler.exe14.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe14.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Logs\shadercompiler-UnityShaderCompiler.exe15.log
+      fullPath: C:\Users\Kimede\Asas Celere\Logs\shadercompiler-UnityShaderCompiler.exe15.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe15.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: C:\Users\Kimede\Asas Celere\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+      fullPath: C:\Users\Kimede\Asas Celere\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Logs\shadercompiler-UnityShaderCompiler.exe4.log
+      fullPath: C:\Users\Kimede\Asas Celere\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Logs\shadercompiler-UnityShaderCompiler.exe5.log
+      fullPath: C:\Users\Kimede\Asas Celere\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Logs\shadercompiler-UnityShaderCompiler.exe6.log
+      fullPath: C:\Users\Kimede\Asas Celere\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Logs\shadercompiler-UnityShaderCompiler.exe7.log
+      fullPath: C:\Users\Kimede\Asas Celere\Logs\shadercompiler-UnityShaderCompiler.exe7.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Logs\shadercompiler-UnityShaderCompiler.exe8.log
+      fullPath: C:\Users\Kimede\Asas Celere\Logs\shadercompiler-UnityShaderCompiler.exe8.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe8.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Logs\shadercompiler-UnityShaderCompiler.exe9.log
+      fullPath: C:\Users\Kimede\Asas Celere\Logs\shadercompiler-UnityShaderCompiler.exe9.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe9.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: web\Build\web.data.gz
+      fullPath: C:\Users\Kimede\Asas Celere\web\Build\web.data.gz
+      projectPath: web\Build\web.data.gz
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: web\Build\web.framework.js.gz
+      fullPath: C:\Users\Kimede\Asas Celere\web\Build\web.framework.js.gz
+      projectPath: web\Build\web.framework.js.gz
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: web\Build\web.wasm.gz
+      fullPath: C:\Users\Kimede\Asas Celere\web\Build\web.wasm.gz
+      projectPath: web\Build\web.wasm.gz
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: b349c785070d07736ab569dce8e3b17fa9d95726
     mergeA: 
     mergeB: 

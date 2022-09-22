@@ -34,14 +34,18 @@ public class Bullet : MonoBehaviour
     }
 
     private void OnTriggerEnter(Collider other) {
+
+            
      
                     other.gameObject.GetComponent<Light>().enabled = true;
                      other.gameObject.GetComponent<Light>().range+= 0.03f;
 
                      if(other.gameObject.GetComponent<Light>().range >= 133)
                      {
-                        Debug.Log("You Win!");
-                            Destroy(other.gameObject);
+                          Debug.Log("You Win!");
+                        GameObject bigExplosion = GameObject.Find("Boss").transform.Find("BigExplosion").gameObject;
+                        bigExplosion.SetActive(true);
+                         Destroy(other.gameObject);
                      }
 
 
